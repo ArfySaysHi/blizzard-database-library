@@ -1,4 +1,5 @@
 #pragma once
+#include <algorithm>
 #include <cstdint>
 #include <extensions/FlagExtensions.h>
 #include <extensions/MemoryExtensions.h>
