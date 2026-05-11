@@ -1,6 +1,7 @@
 #pragma once
 #include <cassert>
 #include <extensions/FlagExtensions.h>
+#include <map>
 #include <stream/BitReader.h>
 #include <stream/StreamReader.h>
 #include <string>
